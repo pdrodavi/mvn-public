@@ -1,7 +1,7 @@
 # Repo Maven Public Idevoc
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
-#### Adicione o repositório ao seu pom.xml
+### Adicione o repositório ao seu pom.xml
 
 ```sh
 <repositories>
@@ -11,7 +11,7 @@
     </repository>
 </repositories>
 ```
-#### Dependências disponíveis
+### Dependências disponíveis
 
 ```sh
 <dependency>
