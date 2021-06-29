@@ -7,7 +7,7 @@
 <repositories>
     <repository>
         <id>central</id>
-            <url>https://mvn.idevoc.com.br/</url>
+        <url>https://mvn.idevoc.com.br/</url>
     </repository>
 </repositories>
 ```
