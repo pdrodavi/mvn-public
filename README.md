@@ -36,6 +36,13 @@
     <version>1.0.0</version>
 </dependency>
 ```
+```sh
+<dependency>
+    <groupId>runcmd</groupId>
+    <artifactId>runcmd</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
 ### Features DLCI
 - Criptografia de texto
 - Criptografia assimétrica + Criptografia proprietária
@@ -94,6 +101,14 @@ tratimg.negativo();
 tratimg.paleta();
 tratimg.passaAlta();
 tratimg.suavizacao();
+```
+
+### Features RUNCMD (Versão Alfa)
+- Execute comandos CMD de forma fácil pelo java
+
+```sh
+// Exemplo
+Runcmd.RunCmd("start calc.exe");
 ```
 
 ##### https://idevoc.com.br/
