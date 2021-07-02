@@ -6,3 +6,6 @@
 
 ### Markdown de Exemplo: [Formato Visual](https://mvn.idevoc.com.br/examplemd)
 ### Markdown de Exemplo: [Formato RAW](https://mvn.idevoc.com.br/examplemd.md)
+### Markdown de Exemplo: [Download Markdown](https://mvn.idevoc.com.br/examplemd.zip)
+
+### Template de criação de Lib: [Download](https://mvn.idevoc.com.br/example-build-lib.zip)
