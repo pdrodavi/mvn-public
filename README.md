@@ -1,6 +1,8 @@
 # Repo Maven Public Idevoc
 ![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)
 
+#### [Como enviar sua Lib](https://mvn.idevoc.com.br/howtosendlib).
+
 ### Adicione o repositório ao seu pom.xml
 
 ```sh
