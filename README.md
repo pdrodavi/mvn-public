@@ -29,6 +29,13 @@
     <version>1.0.0</version>
 </dependency>
 ```
+```sh
+<dependency>
+    <groupId>tratimg</groupId>
+    <artifactId>tratimg</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
 ### Features DLCI
 - Criptografia de texto
 - Criptografia assimétrica + Criptografia proprietária
