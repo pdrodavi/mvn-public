@@ -73,4 +73,27 @@ boolean ie = checkIE("061.308.539.825", "SP");
 Day day = checkDay("01062021", false||true);
 ```
 
+### Features TRATIMG
+- Manipulação de Imagens
+
+```sh
+// Instância
+Tratimg tratimg = new Tratimg();
+
+// Exemplo de métodos
+tratimg.binarizacao();
+tratimg.CalcMediana();
+tratimg.brilho();
+tratimg.contraste();
+tratimg.tonsDeCinza();
+tratimg.calculaHistograma();
+tratimg.calculaHistogramaAcumulado();
+tratimg.equalizacao();
+tratimg.LeJanela3x3();
+tratimg.negativo();
+tratimg.paleta();
+tratimg.passaAlta();
+tratimg.suavizacao();
+```
+
 ##### https://idevoc.com.br/
