@@ -31,6 +31,13 @@
 ```
 ```sh
 <dependency>
+    <groupId>br.com.idevoc</groupId>
+    <artifactId>checkcep</artifactId>
+    <version>1.0.0</version>
+</dependency>
+```
+```sh
+<dependency>
     <groupId>tratimg</groupId>
     <artifactId>tratimg</artifactId>
     <version>1.0.0</version>
@@ -78,6 +85,15 @@ boolean ie = checkIE("061.308.539.825", "SP");
 
 // Como deve tratar o sábado (true = sábado útil, false = sábado não útil)
 Day day = checkDay("01062021", false||true);
+```
+
+### Features CHECKCEP
+- Retorna as informações de uma cidade ou bairro pelo CEP em um Objeto manipulável
+
+```sh
+// Exemplo
+Response response = Checkcep.checkCEP("58900000");
+System.out.println(response.toString());
 ```
 
 ### Features TRATIMG
